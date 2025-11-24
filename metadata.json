@@ -1,0 +1,5 @@
+{
+  "name": "ThumbGenie AI",
+  "description": "A standalone tool to extract YouTube thumbnails and edit them creatively using Gemini Nano Banana (Flash Image). Features Google account integration for API key management.",
+  "requestFramePermissions": []
+}
